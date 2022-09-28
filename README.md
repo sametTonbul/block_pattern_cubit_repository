@@ -5,8 +5,8 @@
 </h3> 
 
 <p align="center">
-  <img src="" width="325" height="578" />
+  <img src="https://github.com/sametTonbul/block_pattern_cubit_repository/blob/master/Screenshot_20220928_233044.png" width="325" height="578" />
 
 <p align="center">
-  <img src="" width="325" height="578" />
+  <img src="https://github.com/sametTonbul/block_pattern_cubit_repository/blob/master/Screenshot_20220928_233053.png" width="325" height="578" />
 
